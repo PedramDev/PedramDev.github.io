@@ -1,0 +1,22 @@
+{
+    "name": "PedramDev",
+    "short_name": "PedramDev",
+    "description": "PedramDev",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#23221e",
+    "background_color": "#23221e",
+    "icons": [
+        {
+            "src": "icons/logo-192.png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/logo.svg",
+            "sizes": "513x513"
+        }
+    ],
+    "prefer_related_applications": false
+}
